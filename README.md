@@ -13,7 +13,7 @@ I've created a comprehensive Dynamic Programming series featuring **105+ problem
 - **[Partition DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Partition%20DP)** <br>
 - **Counting Submatrix DP** <br>
 - **[Tree DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Tree%20DP)** <br>
-- **[Graph DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Graph%20DP)** <br> 
+- **[Graph DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Graph%20DP)** <br> <br>
 
 ### 🔍 What sets this series apart:
 
