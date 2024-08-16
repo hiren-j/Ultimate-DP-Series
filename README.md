@@ -2,7 +2,7 @@
 
 ### 👋 Hello! I'm excited to share my Dynamic Programming Series! 🚀
 
-I've created a comprehensive Dynamic Programming series featuring **110+ problems**, with **___+ problems sourced from LeetCode 📚**. The rest are from **GFG** and **Coding Ninjas**. This series covers **10 different DP patterns**, ranging from **1D to Graph DP 🧩**, with a strong focus on **medium and hard-level problems 🔥**. Make sure you learn the patterns in the following order (click the pattern to jump to the specific folder):**
+I've created a comprehensive Dynamic Programming series featuring **110+ problems**, with **___+ problems sourced from LeetCode 📚**. The rest are from **GFG** and **Coding Ninjas**. This series covers **10 different DP patterns**, ranging from **1D to Graph DP 🧩**, with a strong focus on **medium and hard-level problems 🔥**. Make sure you learn the patterns in the following order (click the pattern to jump to the specific folder):
 
 - **[1D DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/1D%20DP)** <br>
 - **[Multi Dimensional DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Multi%20Dimensional%20DP)** <br>
