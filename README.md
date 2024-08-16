@@ -13,7 +13,7 @@ I've created a comprehensive Dynamic Programming series featuring **105+ problem
 - **[Partition DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Partition%20DP)** <br>
 - **Counting Submatrix DP** <br>
 - **[Tree DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Tree%20DP)** <br>
-- **[Graph DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Graph%20DP)** <br> <br>
+- **[Graph DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Graph%20DP)** <br> 
 
 ### 🔍 What sets this series apart:
 
@@ -22,7 +22,7 @@ I've created a comprehensive Dynamic Programming series featuring **105+ problem
 - Solutions consider **optimizations** as much as possible, including various space optimizations across different patterns (e.g., from 1D to constant space optimization, as we do in Bottom-Up approaches) 🛠️. <br>
 - Detailed time and space complexity analysis of the recursive solutions ⏱️. <br>
 - **Fully readable code** with **necessary comments** to make every solution crystal clear ✍️. <br>
-- The **perfect sequence** of problems for each pattern, helping you solve them in the right order 📊. <br> <br>
+- The **perfect sequence** of problems for each pattern, helping you solve them in the right order 📊. <br> 
 
 Whether you're a beginner in Dynamic Programming or aiming to master it, this series will be helpful for everyone. All you have to do is read the question, try the problem yourself first, and then open the solution and read them sequence-wise as uploaded. You have to worry about nothing—everything is organized sequentially, guiding you step by step through each pattern 🗺️. By the end of this series, you'll end up solving **95+ LeetCode Dynamic Programming problems! 🎯**
 
