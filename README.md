@@ -19,7 +19,7 @@ I've created a comprehensive Dynamic Programming series featuring **110+ problem
 - Both **Top-Down DP** and **Bottom-Up DP** solutions 💡. <br>
 - **Multiple ways of writing** Top-Down and Bottom-Up approaches 🔄. <br>
 - Solutions consider **optimizations** as much as possible, including various space optimizations across different patterns (e.g., from 1D to constant space optimization, as we do in Bottom-Up approaches) 🛠️. <br>
-- Detailed time and space complexity analysis of the recursive solutions ⏱️. <br>
+- Detailed time and space complexity note on the recursive solutions ⏱️. <br>
 - **Fully readable code** with **necessary comments** to make every solution crystal clear ✍️. <br>
 - The **perfect sequence** of problems for each pattern, helping you solve them in the right order 📊. <br> 
 
