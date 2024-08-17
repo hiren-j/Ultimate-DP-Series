@@ -2,7 +2,7 @@
 
 ### 👋 Hello! I'm excited to share my Dynamic Programming Series! 🚀
 
-I've created a comprehensive Dynamic Programming series featuring **110+ problems**, with **90+ problems sourced from LeetCode 📚**. The rest are from **GFG** and **Coding Ninjas**. This series covers **10 different DP patterns**, ranging from **1D to Graph DP 🧩**, with a strong focus on **medium and hard-level problems 🔥**. Make sure you learn the patterns in the following order (click the pattern to jump to the specific folder):
+I've created a comprehensive Dynamic Programming series featuring **110+ problems**, with **85+ problems sourced from LeetCode 📚**. The rest are from **GFG** and **Coding Ninjas**. This series covers **9 different DP patterns**, ranging from **1D to Graph DP 🧩**, with a strong focus on **medium and hard-level problems 🔥**. Make sure you learn the patterns in the following order (click the pattern to jump to the specific folder):
 
 - **[1D DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/1D%20DP)** <br>
 - **[Multi Dimensional DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Multi%20Dimensional%20DP)** <br>
@@ -11,7 +11,6 @@ I've created a comprehensive Dynamic Programming series featuring **110+ problem
 - **[String DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/String%20DP)** <br>
 - **[Stocks DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Stocks%20DP)** <br>
 - **[Partition DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Partition%20DP)** <br>
-- **Counting Submatrix DP** <br>
 - **[Tree DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Tree%20DP)** <br>
 - **[Graph DP](https://github.com/hiren-j/dsaAffection/tree/C%2B%2B/Dynamic%20Programming/Graph%20DP)** <br> <br>
 
@@ -24,7 +23,7 @@ I've created a comprehensive Dynamic Programming series featuring **110+ problem
 - **Fully readable code** with **necessary comments** to make every solution crystal clear ✍️. <br>
 - The **perfect sequence** of problems for each pattern, helping you solve them in the right order 📊. <br> 
 
-Whether you're a beginner in Dynamic Programming or aiming to master it, this series will be helpful for everyone. All you have to do is read the question, try the problem yourself first, and then open the solution and read them sequence-wise as uploaded. You have to worry about nothing—everything is organized sequentially, guiding you step by step through each pattern 🗺️. By the end of this series, you'll end up solving **90+ LeetCode Dynamic Programming problems! 🎯**
+Whether you're a beginner in Dynamic Programming or aiming to master it, this series will be helpful for everyone. All you have to do is read the question, try the problem yourself first, and then open the solution and read them sequence-wise as uploaded. You have to worry about nothing—everything is organized sequentially, guiding you step by step through each pattern 🗺️. By the end of this series, you'll end up solving **85+ LeetCode Dynamic Programming problems! 🎯**
 
 I will continue to add more problems and updates to keep the series comprehensive and current. Stay tuned! 🔧
 
