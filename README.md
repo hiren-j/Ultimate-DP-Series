@@ -33,4 +33,4 @@ I will continue to add more problems and updates to keep the series comprehensiv
 
 #DynamicProgramming #LeetCode #GFG #CodingNinjas #Coding #ProblemSolving #SoftwareEngineering #DSAisLove
 
-*Dyna🧩mic Programming: Why overthink when you can just be lazy 😎, explore all the possibilities 🔍, and let the code do the heavy lifting 💻💪!*
+*Dynamic Programming: Why overthink when you can just be lazy 😎, explore all the possibilities 🔍, and let the code do the heavy lifting 💻💪!*
