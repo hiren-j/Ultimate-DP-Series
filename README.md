@@ -36,4 +36,4 @@ I will continue to add more problems and updates to keep the series comprehensiv
 
 *Dynamic Programming: Why overthink when you can just be lazy 😎, explore all the possibilities 🔍, and let the code do the heavy lifting 💻💪!*
 
-**🎯🤝🏻 Follow For More ╰┈➤** [Hiren Joshi](https://www.linkedin.com/in/hirenjoshi1630/)
+**🎯🤝🏻 Follow For More ╰┈➤** [Hiren Joshi - LinkedIn](https://www.linkedin.com/in/hirenjoshi1630/)
