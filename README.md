@@ -1,6 +1,6 @@
 ## 🔥🔥 ULTIMATE DP SERIES LINK DROP! 🔥🔥
 
-## 👉 Now Video Lectures Are Available — [Playlist Link](https://opener.one/yt/q4fd5s)
+## 👉 Now Video Lectures Are Available — [Playlist Link]([https://opener.one/yt/q4fd5s](https://www.youtube.com/playlist?list=PLiF6lAo--At1-wfJi5qwVxqwAsSEOkDMK))
 
 ### 👋 Hello! I'm excited to share my Dynamic Programming Series! 🚀
 
